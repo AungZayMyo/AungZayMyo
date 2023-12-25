@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AungZayMyo
+- 👋 Hi, I’m @AungZayMyo, I'm a student and junior in Information Technology field.
 - 👀 I’m interested in Information Security, System Administration, and Cyber Security.
 - 🌱 I’m currently learning in computing field, developing field, and cyber security.
 
